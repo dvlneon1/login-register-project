@@ -10,17 +10,17 @@
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 
-    <script src="https://accounts.google.com/gsi/client" async></script>
-
-    <script src="./assets/js/script.js"></script>
-
     <title>Document</title>
 </head>
 
 <body>
     <div class="wrapper">
         <form action="#">
-            <h1>Login</h1>
+            <h1>Sign up</h1>
+            <div class="input-box">
+                <input type="text" placeholder="Name" required>
+                <i class='bx bxs-user'></i>
+            </div>
             <div class="input-box">
                 <input type="text" placeholder="Username" required>
                 <i class='bx bxs-user'></i>
@@ -29,24 +29,16 @@
                 <input type="password" placeholder="Password" required>
                 <i class='bx bxs-lock-alt'></i>
             </div>
-
-            <div class="remember-forgot">
-                <label>
-                    <input type="checkbox"> Remember me
-                </label>
-                <a href="#">Forgot password ?</a>
+            <div class="input-box">
+                <input type="text" placeholder="Confirm password" required>
+                <i class='bx bxs-lock-alt'></i>
             </div>
 
-            <button type="submit" class="btn">Sign in</button>
+            <button type="submit" class="btn">Sign up</button>
 
             <div class="register-link">
-                <p>Don't have an account ? <a href="register.html">Register</a></p>
+                <p>have an account ? <a href="index.html">Sign In</a></p>
             </div>
-            <hr>
-            <div class="other-log">
-                <p>or Sign up with</p>
-            </div>
-            <div id="buttonDiv"></div>
         </form>
     </div>
 </body>
