@@ -29,11 +29,11 @@ git clone https://github.com/seu-usuario/seu-projeto.git
 
 ## 📸 Capturas de Tela
 
-<img src=".git/imgs/1.png">
+<img src="r-img/1.png]">
 
-<img src=".git/imgs/2.png">
+<img src="r-img/2.png">
 
-<img src=".git/imgs/3.png">
+<img src="r-img/3.png">
 
 
 ## 🎉 Contribua
