@@ -29,7 +29,7 @@ git clone https://github.com/seu-usuario/seu-projeto.git
 
 ## 📸 Capturas de Tela
 
-<img src="r-img/1.png]">
+<img src="r-img/1.png">
 
 <img src="r-img/2.png">
 
